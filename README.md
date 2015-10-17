@@ -55,6 +55,6 @@ View the [examples](examples) directory.
 
 ## License
 
-This software is licensed unde rthe MIT License. [View the license](LICENSE).
+This software is licensed under the MIT License. [View the license](LICENSE).
 
 Copyright © 2015 [Michael K. Squires](http://sqmk.com)
