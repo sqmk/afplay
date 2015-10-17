@@ -1,0 +1,30 @@
+{
+  "name": "afplay",
+  "version": "0.0.1",
+  "description": "Apple Audo File Play client for Node.js",
+  "keywords": [
+    "afplay",
+    "apple",
+    "osx",
+    "client"
+  ],
+  "maintainers": [
+    "Michael Squires <sqmk@php.net>"
+  ],
+  "license": "MIT",
+  "repository": "sqmk/afplay",
+  "main": "lib/Afplay.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha":            "2.3.2",
+    "chai":             "3.2.0",
+    "chai-as-promised": "5.1.0",
+    "sinon":            "1.17.0",
+    "mockery":          "1.4.0"
+  }
+}
