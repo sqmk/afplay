@@ -1,7 +1,7 @@
 {
   "name": "afplay",
-  "version": "0.0.1",
-  "description": "Apple Audo File Play client for Node.js",
+  "version": "0.1.0",
+  "description": "Apple's Audio File Play client for Node.js",
   "keywords": [
     "afplay",
     "apple",
