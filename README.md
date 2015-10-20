@@ -1,9 +1,9 @@
-# Afplay - Apple's Audio File Play wrapper for Node.js
+# Afplay - Apple Audio File Play wrapper for Node.js
 
 [![NPM Version](https://badge.fury.io/js/afplay.svg)](https://www.npmjs.com/package/afplay)
 [![Build Status](https://api.travis-ci.org/sqmk/afplay.svg?branch=master)](https://travis-ci.org/sqmk/afplay)
 
-Afplay is a wrapper for Apple's Audio File Play (afplay).
+Afplay is a wrapper for Apple Audio File Play (afplay).
 
 Use Afplay to play audio files on OS X via afplay. Afplay afplay!
 
