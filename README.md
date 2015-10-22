@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.rawgit.com/sqmk/afplay/09a40f149d02b42c34535d838182681a0f432d34/media/logo.png" alt="Afplay" />
+</p>
+
 # Afplay - Apple Audio File Play wrapper for Node.js
 
 [![NPM Version](https://badge.fury.io/js/afplay.svg)](https://www.npmjs.com/package/afplay)
