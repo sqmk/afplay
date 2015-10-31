@@ -1,6 +1,6 @@
 {
   "name": "afplay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apple Audio File Play wrapper for Node.js",
   "keywords": [
     "afplay",
