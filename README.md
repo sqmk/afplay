@@ -57,6 +57,10 @@ player.play('/tmp/my-file.mp3', {volume: 100, time: 15})
 
 View the [examples](examples) directory.
 
+## Logo
+
+Chump's initial logo was designed by scorpion6 on Fiverr. Font used is Lato Black.
+
 ## License
 
 This software is licensed under the MIT License. [View the license](LICENSE).
