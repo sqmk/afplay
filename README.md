@@ -4,8 +4,9 @@
 
 # Afplay - Apple Audio File Play wrapper for Node.js
 
-[![NPM Version](https://badge.fury.io/js/afplay.svg)](https://www.npmjs.com/package/afplay)
-[![Build Status](https://api.travis-ci.org/sqmk/afplay.svg?branch=master)](https://travis-ci.org/sqmk/afplay)
+[![NPM Version](https://img.shields.io/npm/v/afplay.svg?style=flat-square)](https://www.npmjs.com/package/afplay)
+[![Build Status](https://img.shields.io/travis/sqmk/afplay/master.svg?style=flat-square)](https://travis-ci.org/sqmk/afplay)
+[![Dependency Status](https://img.shields.io/david/sqmk/afplay.svg?style=flat-square)](https://david-dm.org/sqmk/afplay)
 
 Afplay is a wrapper for Apple Audio File Play (afplay).
 
@@ -59,7 +60,7 @@ View the [examples](examples) directory.
 
 ## Logo
 
-Chump's initial logo was designed by scorpion6 on Fiverr. Font used is Lato Black.
+Afplay's initial logo was designed by scorpion6 on Fiverr. Font used is Lato Black.
 
 ## License
 
